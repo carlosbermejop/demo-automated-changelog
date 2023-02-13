@@ -9,12 +9,20 @@
       "section": "Bug Fixes"
     },
     {
+      "type": "docs",
+      "section": "Documentation"
+    },
+    {
+      "type": "refactor",
+      "section": "Refactors"
+    },
+    {
       "type": "chore",
       "hidden": true
     },
     {
       "type": "docs",
-      "hidden": true
+      "hidden": false
     },
     {
       "type": "style",
@@ -22,7 +30,7 @@
     },
     {
       "type": "refactor",
-      "hidden": true
+      "hidden": false
     },
     {
       "type": "perf",
