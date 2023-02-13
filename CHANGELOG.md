@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.1](https://github.com/carlosbermejop/klassi-js-GUI/compare/v1.0.0...v1.0.1) (2023-02-13)
+
+
+### Bug Fixes
+
+* **API:** fixed that terrible bug we had ([b0202f8](https://github.com/carlosbermejop/klassi-js-GUI/commitsb0202f80adc78fe4bf2ef96befe2908f54e32623))
+
 ## 1.0.0 (2023-02-13)
 
 
