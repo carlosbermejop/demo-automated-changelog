@@ -1,0 +1,18 @@
+{
+  "name": "demo-automated-changelog",
+  "version": "0.0.0",
+  "description": "This is to demo stardard-version as a method to get automated changelog creation",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "changelog": "standard-version",
+    "changelog:patch": "standard-version --release-as patch",
+    "changelog:minor": "standard-version --release-as minor",
+    "changelog:major": "standard-version --release-as major"
+  },
+  "author": "Carlos Bermejo Pérez <carlosbermejop@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "standard-version": "^9.5.0"
+  }
+}
