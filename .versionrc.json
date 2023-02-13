@@ -13,6 +13,10 @@
       "section": "Documentation"
     },
     {
+      "type": "refactor",
+      "section": "Refactors"
+    },
+    {
       "type": "chore",
       "hidden": true
     },
@@ -26,7 +30,7 @@
     },
     {
       "type": "refactor",
-      "hidden": true
+      "hidden": false
     },
     {
       "type": "perf",
