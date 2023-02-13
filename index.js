@@ -5,3 +5,4 @@ console.log("commit 3, create functionality");
 console.log("commit 4, update functionality");
 console.log("commit 5, delete functionality");
 console.log("commit 6, broken CI implementation");
+console.log("commit 7, oh no it's broken");
