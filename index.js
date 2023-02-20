@@ -9,3 +9,5 @@ console.log("commit 7, oh no it's broken");
 console.log("commit 8, fixed");
 
 console.log("commit 9, I fixed a bug");
+
+console.log("commit 11, replaced standard-version with release-please");
