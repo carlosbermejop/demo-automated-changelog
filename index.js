@@ -15,3 +15,4 @@ console.log("commit 12, new functionality \"parser\"");
 
 console.log("commit 13, Workshop commit");
 console.log("commit 14, added DTO implementation");
+console.log("commit 15, MySQL connection added");
