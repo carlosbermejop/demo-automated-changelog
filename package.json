@@ -1,6 +1,6 @@
 {
   "name": "demo-automated-changelog",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "description": "This is to demo stardard-version as a method to get automated changelog creation",
   "main": "index.js",
   "scripts": {
