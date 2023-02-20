@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.3.0](https://github.com/carlosbermejop/demo-automated-changelog/compare/v1.2.3...v1.3.0) (2023-02-20)
+
+
+### Features
+
+* **Parser:** parser functionality added ([f7f42a2](https://github.com/carlosbermejop/demo-automated-changelog/commit/f7f42a23aa735e91a98a381b483320c7781263aa))
+
 ## [1.2.3](https://github.com/carlosbermejop/demo-automated-changelog/compare/v1.2.1...v1.2.3) (2023-02-20)
 
 
