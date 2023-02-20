@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.3](https://github.com/carlosbermejop/demo-automated-changelog/compare/v1.2.1...v1.2.3) (2023-02-20)
+
+
+### Bug Fixes
+
+* **Release Please:** changed permissions in workflow ([fd9f7e9](https://github.com/carlosbermejop/demo-automated-changelog/commit/fd9f7e9a68b197309aff64244a654bbcd43a3556))
+* **Release Please:** modified sections in the Changelog file ([55276c2](https://github.com/carlosbermejop/demo-automated-changelog/commit/55276c236d3c2906b6c2c71637506e312b8ac145))
+
 ## [1.2.1](https://github.com/carlosbermejop/demo-automated-changelog/compare/v1.1.0...v1.2.1) (2023-02-20)
 
 
