@@ -12,3 +12,7 @@ console.log("commit 9, I fixed a bug");
 
 console.log("commit 11, replaced standard-version with release-please");
 console.log("commit 12, new functionality \"parser\"");
+
+console.log("commit 13, Workshop commit");
+console.log("commit 14, added DTO implementation");
+console.log("commit 15, MySQL connection added");
