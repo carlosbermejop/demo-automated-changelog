@@ -2,6 +2,25 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.1](https://github.com/carlosbermejop/demo-automated-changelog/compare/v1.1.0...v1.2.1) (2023-02-20)
+
+
+### Features
+
+* **Logging:** updated logging functionality to test the release ([19d5a0c](https://github.com/carlosbermejop/demo-automated-changelog/commit/19d5a0c23af7d8b7d0dabadac996e0bd3923c0ba))
+* **Release Please:** replaced standard-version with release-please ([312142b](https://github.com/carlosbermejop/demo-automated-changelog/commit/312142be59b028d19166d520bce6452e91889ac0))
+
+
+### Bug Fixes
+
+* **Secret:** changed secret for release-please workflow ([e114f59](https://github.com/carlosbermejop/demo-automated-changelog/commit/e114f5910977b5b62f7a7ae349a7b3d58d4c8692))
+* **Secret:** went back to GITHUB_TOKEN as credential ([b6138c6](https://github.com/carlosbermejop/demo-automated-changelog/commit/b6138c6c0e4a7eb91f33cc4d32361ea2d452031c))
+
+
+### Miscellaneous Chores
+
+* **release:** commit for release 1.2.0 ([67bd36e](https://github.com/carlosbermejop/demo-automated-changelog/commit/67bd36e0e7c65b9ace0cb26c288b87254d0f998e))
+
 ## [1.1.0](https://github.com/carlosbermejop/klassi-js-GUI/compare/v1.0.0...v1.1.0) (2023-02-13)
 
 
