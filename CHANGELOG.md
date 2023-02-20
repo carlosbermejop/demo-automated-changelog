@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.4.0](https://github.com/carlosbermejop/demo-automated-changelog/compare/v1.3.0...v1.4.0) (2023-02-20)
+
+
+### Features
+
+* **DTO:** added DTO implementation ([c254c3f](https://github.com/carlosbermejop/demo-automated-changelog/commit/c254c3f5fe24361efd909470417461f137fb022c))
+* **MySQL:** connection to DB established ([8bb075d](https://github.com/carlosbermejop/demo-automated-changelog/commit/8bb075decabe86ac589cd9041de61ceae16adb86))
+
 ## [1.3.0](https://github.com/carlosbermejop/demo-automated-changelog/compare/v1.2.3...v1.3.0) (2023-02-20)
 
 
